@@ -22,6 +22,7 @@ NodeJS
 ### What I'll Have to Learn
 React or refresh myself on Angular. Would prefer to use React because it could translate to React native later on to scale from webapp to mobile app.
 Integrate a stock information API. (This could prove to be difficult simply because a lot of these APIs have a subscription cost)
+Familiarize myself with a nodeJS backend like firebase.
 
 ### Project Tracker
 https://trello.com/b/MtKXcLs3/first-board
