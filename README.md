@@ -20,3 +20,7 @@ We are making you use GitHub for two important reasons:
 Now that you know what this repo is for let's get it setup.
 
 Click the [P1 - Assignment Repository Setup](./P1-Assignment_Repository_Setup/) repo for further instructions.
+
+Wireframes - https://miro.com/app/board/uXjVOYYnTGc=/
+User Stories - https://trello.com/b/mK5d9w9x/cat-cafe-hub-app
+Project - https://github.com/typow21/CatFe
